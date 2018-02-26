@@ -1,0 +1,22 @@
+{
+  "name": "aframe-boilerplate-template",
+  "version": "1.0.0",
+  "description": "A-Frame boilerplates using modules with server. ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samhoudmedia/aframe-boilerplate-template.git"
+  },
+  "keywords": [
+    "a-frame",
+    "boilerplate"
+  ],
+  "author": "Danny de Vries",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samhoudmedia/aframe-boilerplate-template/issues"
+  },
+  "homepage": "https://github.com/samhoudmedia/aframe-boilerplate-template#readme"
+}
