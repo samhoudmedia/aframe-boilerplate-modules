@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/samhoudmedia/aframe-boilerplate-template/issues"
   },
-  "homepage": "https://github.com/samhoudmedia/aframe-boilerplate-template#readme"
+  "homepage": "https://github.com/samhoudmedia/aframe-boilerplate-template#readme",
+  "devDependencies": {
+    "browserify": "^16.1.0"
+  }
 }
