@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A-Frame boilerplates using modules with server. ",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build:js": "browserify src/index.js -o build/main.js"
   },
   "repository": {
     "type": "git",
