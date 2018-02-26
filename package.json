@@ -21,5 +21,8 @@
   "homepage": "https://github.com/samhoudmedia/aframe-boilerplate-template#readme",
   "devDependencies": {
     "browserify": "^16.1.0"
+  },
+  "dependencies": {
+    "aframe": "^0.7.1"
   }
 }
