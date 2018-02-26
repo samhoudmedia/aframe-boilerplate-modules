@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A-Frame boilerplates using modules with server. ",
   "scripts": {
-    "build:js": "browserify src/index.js -o build/main.js"
+    "start": "budo index.js --open --live"
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/samhoudmedia/aframe-boilerplate-template#readme",
   "devDependencies": {
-    "browserify": "^16.1.0"
+    "browserify": "^16.1.0",
+    "budo": "^11.1.7"
   },
   "dependencies": {
     "aframe": "^0.7.1"
