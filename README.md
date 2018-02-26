@@ -1,4 +1,4 @@
-# aframe-boilerplate-module
+# aframe-boilerplate-modules
 ⛺️ A-Frame boilerplate using modules with server.
 
 ## 📖 Introduction
